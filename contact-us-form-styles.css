@@ -1,0 +1,136 @@
+body {
+    background-color: rgba(116, 0, 163, 1)
+}
+
+.contacts-us__header {
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    
+
+}
+
+
+.container__header {
+    display: flex;
+    flex-direction: row;
+}
+
+.contacts-us__logo {
+    padding: 38px 80px 37px 110px;
+
+}
+
+.contacts-us__mail-address {
+    color: rgba(255, 255, 255, 1);
+    font-size: 18px;
+    padding-top: 34px;
+    padding-bottom: 32px;
+}    
+
+.contacts-us {
+    display: flex;
+    justify-content: center;
+    background-color: rgba(116, 0, 163, 1);
+    padding: 74px 100px;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.contacts-us__block {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.contacts-us__about-us {
+    display: flex;
+    flex-direction: column;
+    padding: 74px 100px;
+    background-color: white;
+    
+}
+
+.contacts-us__title {
+    color: #4C2463;
+}
+
+.contacts-us__message {
+    color: black;
+    font-size: 18px;
+    padding-top: 20px;
+    line-height: 29px;
+}
+
+.contacts-us__heading-What-You-Get {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #4C2463;
+    font-weight: 600;
+    font-size: 32px;
+
+}
+
+.contacts-us__text-services {
+    list-style-type: none;
+    font-size: 18px;
+    line-height: 29px;
+}
+
+.contacts-us__confirm-block {
+    background-color: rgb(234, 244, 252);
+    display: flex;
+    align-items: center;
+    padding: 154px 100px;
+    text-align: center;
+    flex-direction: column;
+    
+
+}
+
+.contacts-us__message-confirm {
+    padding-bottom: 27px;
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+
+.contacts-us__ok-button{
+    font-size: 18px;
+    font-weight: 700;
+    border: 1px solid orangered;
+    border-radius: 20px;
+    background-color: orangered;
+    text-decoration: none;
+    color: white;
+    width: min-content;
+    padding: 8px 48px;
+}
+
+
+
+
+.title_h1 {
+    font-size: 56px;
+}
+
+.title_h2 {
+    font-size: 48px;
+}
+
+.title_h3 {
+    font-size: 32px;
+}
+
+.title_h4 {
+    font-size: 24px;
+}
+
+.title_h5 {
+    font-size: 20px;
+}
+
+.title_h6 {
+    font-size: 18px;
+}

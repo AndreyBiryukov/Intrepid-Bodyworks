@@ -1,0 +1,109 @@
+.body {
+  background-color: #7400A3;
+}
+
+
+.contact-us {
+  display: flex;
+  justify-content: center;
+  background-color: #7400A3;
+  padding: 90px 110px;  
+}
+
+.container {
+  background-color: #ffffff;
+  max-width: 1200px;
+}
+
+.contact-us__block {
+  display: flex;
+}
+
+.contact-us__wishes {
+  padding: 74px 100px;
+}
+
+.contact-us__title1 {
+  font-size: 56px;
+  color: #4C2463;
+  
+}
+
+.contact-us__wishes-text {
+  font-size: 18px;
+  padding-top: 20px;
+  line-height: 29px;
+}
+
+.contact-us__What-You-Get {
+  padding-top: 30px;
+}
+
+.contact-us__title2 {
+  font-size: 32px;
+  color: #4C2463;
+}
+
+.contact-us__list {
+  font-size: 18px;
+  padding-top: 20px;
+  line-height: 29px;
+}
+
+.contact-us__form-block {
+  padding: 85px 100px;
+  background-color: #EBDEF9;
+}
+
+.contact-us__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-name {
+  margin-bottom: 10px;
+  border: 1px solid #CCB1EB;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  border-radius: 5px;
+}
+
+.form-tel {
+  margin-bottom: 10px;
+  border: 1px solid #CCB1EB;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  border-radius: 5px;
+}
+
+.form-email {
+  margin-bottom: 10px;
+  border: 1px solid #CCB1EB;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  border-radius: 5px;
+}
+
+.form-message {
+  margin-bottom: 20px;
+  border: 1px solid #CCB1EB;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 14px;
+  border-radius: 5px;
+}
+
+.contacts-us__button {
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #F6674D;
+  border-radius: 20px;
+  text-decoration: none;
+  color: #ffffff;
+  width: min-content;
+  margin-top: 20px;
+  padding: 8px 128px;
+}

@@ -1,0 +1,60 @@
+.footer-top {
+  background-color: rgba(46, 52, 64, 1);
+  color: white;
+}
+
+.footer-navigation {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 40px;  
+  padding-left: 90px;
+  font-size: 16px;
+}
+
+.footer-link {
+  text-decoration: none; 
+  color: white; 
+  padding: 10px;
+}
+
+.footer-navigation__icons {
+  padding-top: -4px;
+  padding-right: 110px;
+}
+
+.footer-info {
+  padding: 40px 583px 40px 110px;
+  display: flex;
+  justify-content: space-between; 
+  white-space: pre; 
+}
+
+.footer-address_timetable {
+  padding-right: 40px;
+
+}
+
+.footer-telephone_mail {
+  padding-right: 140px;
+}
+
+.footer-creators {
+  background-color: rgba(41, 45, 53, 1);
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.footer-creators__Company {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 107px;
+}
+
+.footer-Development {
+  color: white;
+  font-size: 16px;
+  padding-top: 41px;
+  padding-bottom: 40px;
+  padding-right: 110px;
+}
